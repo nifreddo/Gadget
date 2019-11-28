@@ -1,2 +1,2 @@
 # Gadget
-Google script per il monitoraggio civico
+Google script per il monitoraggio civico.
